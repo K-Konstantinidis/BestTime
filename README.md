@@ -18,5 +18,5 @@ The user inserts the amount of bands that will be in the festival. After that th
 <img src = "Images/errors.png" width = 400px>
 
 ## UML
-<img src = "Images/Class Diagram1.png" width = 400px>
+<img src = "Images/Class Diagram2.png" width = 400px>
 
